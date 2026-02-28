@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/XanderG2/message_system#readme",
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.4",
     "dotenv": "^8.2.0",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "pg": "^8.11.0"
   }
 }
